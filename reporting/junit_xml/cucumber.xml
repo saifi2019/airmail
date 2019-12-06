@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="40" time="23.36951">
+<testcase classname="People feature" name="Get individual of People" time="2.039706">
+<system-out><![CDATA[Given User shall have  individual People "1" endpoint.......................passed
+When Makes get call to individual People endpoint...........................passed
+Then Response successful  ok................................................passed
+And Individual People "Luke Skywalker" can be read..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get individual of People 2" time="0.512687">
+<system-out><![CDATA[Given User shall have  individual People "2" endpoint.......................passed
+When Makes get call to individual People endpoint...........................passed
+Then Response successful  ok................................................passed
+And Individual People "C-3PO" can be read...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get individual of People 3" time="0.477535">
+<system-out><![CDATA[Given User shall have  individual People "3" endpoint.......................passed
+When Makes get call to individual People endpoint...........................passed
+Then Response successful  ok................................................passed
+And Individual People "R2-D2" can be read...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get individual of People 4" time="0.533626">
+<system-out><![CDATA[Given User shall have  individual People "4" endpoint.......................passed
+When Makes get call to individual People endpoint...........................passed
+Then Response successful  ok................................................passed
+And Individual People "Darth Vader" can be read.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get individual of People 5" time="0.506407">
+<system-out><![CDATA[Given User shall have  individual People "5" endpoint.......................passed
+When Makes get call to individual People endpoint...........................passed
+Then Response successful  ok................................................passed
+And Individual People "Leia Organa" can be read.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get individual of People 6" time="0.541144">
+<system-out><![CDATA[Given User shall have  individual People "6" endpoint.......................passed
+When Makes get call to individual People endpoint...........................passed
+Then Response successful  ok................................................passed
+And Individual People "Owen Lars" can be read...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get individual of People 7" time="0.481904">
+<system-out><![CDATA[Given User shall have  individual People "7" endpoint.......................passed
+When Makes get call to individual People endpoint...........................passed
+Then Response successful  ok................................................passed
+And Individual People "Beru Whitesun lars" can be read......................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get individual of People 8" time="0.476545">
+<system-out><![CDATA[Given User shall have  individual People "8" endpoint.......................passed
+When Makes get call to individual People endpoint...........................passed
+Then Response successful  ok................................................passed
+And Individual People "R5-D4" can be read...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get individual of People 9" time="0.492707">
+<system-out><![CDATA[Given User shall have  individual People "9" endpoint.......................passed
+When Makes get call to individual People endpoint...........................passed
+Then Response successful  ok................................................passed
+And Individual People "Biggs Darklighter" can be read.......................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get individual of People 10" time="0.490945">
+<system-out><![CDATA[Given User shall have  individual People "10" endpoint......................passed
+When Makes get call to individual People endpoint...........................passed
+Then Response successful  ok................................................passed
+And Individual People "Obi-Wan Kenobi" can be read..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the first planet in the array" time="0.457678">
+<system-out><![CDATA[Given User shall have "1" endpoint..........................................passed
+When Makes get call for planet..............................................passed
+Then Response should see successful ok......................................passed
+And Planet "Tatooine" can be seen...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the first planet in the array 2" time="0.475495">
+<system-out><![CDATA[Given User shall have "2" endpoint..........................................passed
+When Makes get call for planet..............................................passed
+Then Response should see successful ok......................................passed
+And Planet "Alderaan" can be seen...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the first planet in the array 3" time="0.440045">
+<system-out><![CDATA[Given User shall have "3" endpoint..........................................passed
+When Makes get call for planet..............................................passed
+Then Response should see successful ok......................................passed
+And Planet "Yavin IV" can be seen...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the first planet in the array 4" time="0.260607">
+<system-out><![CDATA[Given User shall have "4" endpoint..........................................passed
+When Makes get call for planet..............................................passed
+Then Response should see successful ok......................................passed
+And Planet "Hoth" can be seen...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the first planet in the array 5" time="0.476788">
+<system-out><![CDATA[Given User shall have "5" endpoint..........................................passed
+When Makes get call for planet..............................................passed
+Then Response should see successful ok......................................passed
+And Planet "Dagobah" can be seen............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the first planet in the array 6" time="0.72335">
+<system-out><![CDATA[Given User shall have "6" endpoint..........................................passed
+When Makes get call for planet..............................................passed
+Then Response should see successful ok......................................passed
+And Planet "Bespin" can be seen.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the first planet in the array 7" time="0.349987">
+<system-out><![CDATA[Given User shall have "7" endpoint..........................................passed
+When Makes get call for planet..............................................passed
+Then Response should see successful ok......................................passed
+And Planet "Endor" can be seen..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the first planet in the array 8" time="0.582434">
+<system-out><![CDATA[Given User shall have "8" endpoint..........................................passed
+When Makes get call for planet..............................................passed
+Then Response should see successful ok......................................passed
+And Planet "Naboo" can be seen..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the first planet in the array 9" time="0.66097">
+<system-out><![CDATA[Given User shall have "9" endpoint..........................................passed
+When Makes get call for planet..............................................passed
+Then Response should see successful ok......................................passed
+And Planet "Coruscant" can be seen..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the first planet in the array 10" time="0.4741">
+<system-out><![CDATA[Given User shall have "10" endpoint.........................................passed
+When Makes get call for planet..............................................passed
+Then Response should see successful ok......................................passed
+And Planet "Kamino" can be seen.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get the list of People" time="0.821487">
+<system-out><![CDATA[Given User shall have People endpoint.......................................passed
+When Makes get call to People...............................................passed
+Then Response successful and ok.............................................passed
+And People "0" People "Luke Skywalker" can be read..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get the list of People 2" time="0.715749">
+<system-out><![CDATA[Given User shall have People endpoint.......................................passed
+When Makes get call to People...............................................passed
+Then Response successful and ok.............................................passed
+And People "1" People "C-3PO" can be read...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get the list of People 3" time="0.664672">
+<system-out><![CDATA[Given User shall have People endpoint.......................................passed
+When Makes get call to People...............................................passed
+Then Response successful and ok.............................................passed
+And People "2" People "R2-D2" can be read...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get the list of People 4" time="0.604113">
+<system-out><![CDATA[Given User shall have People endpoint.......................................passed
+When Makes get call to People...............................................passed
+Then Response successful and ok.............................................passed
+And People "3" People "Darth Vader" can be read.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get the list of People 5" time="0.61571">
+<system-out><![CDATA[Given User shall have People endpoint.......................................passed
+When Makes get call to People...............................................passed
+Then Response successful and ok.............................................passed
+And People "4" People "Leia Organa" can be read.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get the list of People 6" time="0.628476">
+<system-out><![CDATA[Given User shall have People endpoint.......................................passed
+When Makes get call to People...............................................passed
+Then Response successful and ok.............................................passed
+And People "5" People "Owen Lars" can be read...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get the list of People 7" time="0.627699">
+<system-out><![CDATA[Given User shall have People endpoint.......................................passed
+When Makes get call to People...............................................passed
+Then Response successful and ok.............................................passed
+And People "6" People "Beru Whitesun lars" can be read......................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get the list of People 8" time="0.583997">
+<system-out><![CDATA[Given User shall have People endpoint.......................................passed
+When Makes get call to People...............................................passed
+Then Response successful and ok.............................................passed
+And People "7" People "R5-D4" can be read...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get the list of People 9" time="0.565412">
+<system-out><![CDATA[Given User shall have People endpoint.......................................passed
+When Makes get call to People...............................................passed
+Then Response successful and ok.............................................passed
+And People "8" People "Biggs Darklighter" can be read.......................passed
+]]></system-out>
+</testcase>
+<testcase classname="People feature" name="Get the list of People 10" time="0.668073">
+<system-out><![CDATA[Given User shall have People endpoint.......................................passed
+When Makes get call to People...............................................passed
+Then Response successful and ok.............................................passed
+And People "9" People "Obi-Wan Kenobi" can be read..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the list of Planets" time="0.491284">
+<system-out><![CDATA[Given User shall have planets endpoint......................................passed
+When Makes get call.........................................................passed
+Then Response successful ok.................................................passed
+And Planet "0" planet "Alderaan" can be read................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the list of Planets 2" time="0.520108">
+<system-out><![CDATA[Given User shall have planets endpoint......................................passed
+When Makes get call.........................................................passed
+Then Response successful ok.................................................passed
+And Planet "1" planet "Yavin IV" can be read................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the list of Planets 3" time="0.486511">
+<system-out><![CDATA[Given User shall have planets endpoint......................................passed
+When Makes get call.........................................................passed
+Then Response successful ok.................................................passed
+And Planet "2" planet "Hoth" can be read....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the list of Planets 4" time="0.501794">
+<system-out><![CDATA[Given User shall have planets endpoint......................................passed
+When Makes get call.........................................................passed
+Then Response successful ok.................................................passed
+And Planet "3" planet "Dagobah" can be read.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the list of Planets 5" time="0.49032">
+<system-out><![CDATA[Given User shall have planets endpoint......................................passed
+When Makes get call.........................................................passed
+Then Response successful ok.................................................passed
+And Planet "4" planet "Bespin" can be read..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the list of Planets 6" time="0.506178">
+<system-out><![CDATA[Given User shall have planets endpoint......................................passed
+When Makes get call.........................................................passed
+Then Response successful ok.................................................passed
+And Planet "5" planet "Endor" can be read...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the list of Planets 7" time="0.756976">
+<system-out><![CDATA[Given User shall have planets endpoint......................................passed
+When Makes get call.........................................................passed
+Then Response successful ok.................................................passed
+And Planet "6" planet "Naboo" can be read...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the list of Planets 8" time="0.484846">
+<system-out><![CDATA[Given User shall have planets endpoint......................................passed
+When Makes get call.........................................................passed
+Then Response successful ok.................................................passed
+And Planet "7" planet "Coruscant" can be read...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the list of Planets 9" time="0.674743">
+<system-out><![CDATA[Given User shall have planets endpoint......................................passed
+When Makes get call.........................................................passed
+Then Response successful ok.................................................passed
+And Planet "8" planet "Kamino" can be read..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Planets feature" name="Get the list of Planets 10" time="0.506702">
+<system-out><![CDATA[Given User shall have planets endpoint......................................passed
+When Makes get call.........................................................passed
+Then Response successful ok.................................................passed
+And Planet "9" planet "Geonosis" can be read................................passed
+]]></system-out>
+</testcase>
+</testsuite>
